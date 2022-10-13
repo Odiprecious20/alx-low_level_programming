@@ -24,3 +24,6 @@ if (array && cmp)
 		if (cmp(array[i]))
 			return (i);
 }
+
+return (-1);
+}
